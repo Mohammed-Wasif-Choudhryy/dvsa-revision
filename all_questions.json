@@ -1,0 +1,1107 @@
+[
+  {
+    "id": 1,
+    "category": "Studs & Motorways",
+    "q": "What colour are the reflective studs (cat's eyes) between the hard shoulder and the left-hand running lane of a motorway?",
+    "options": [
+      "Red",
+      "Amber",
+      "White",
+      "Green"
+    ],
+    "correct": 0,
+    "explanation": "RED studs mark the left-hand edge of the carriageway next to the hard shoulder or verge. Think: 'Red = edge of road / boundary'."
+  },
+  {
+    "id": 2,
+    "category": "Studs & Motorways",
+    "q": "Where will you find GREEN reflective studs on a motorway or dual carriageway?",
+    "options": [
+      "Next to the central reservation",
+      "At slip road entries and exits",
+      "Between normal running lanes",
+      "Through contraflow roadworks"
+    ],
+    "correct": 1,
+    "explanation": "GREEN studs mark deceleration and acceleration lanes at slip road entries and exits."
+  },
+  {
+    "id": 3,
+    "category": "Studs & Motorways",
+    "q": "What colour are the reflective studs adjacent to the central reservation on a motorway?",
+    "options": [
+      "Red",
+      "White",
+      "Amber",
+      "Fluorescent Green/Yellow"
+    ],
+    "correct": 2,
+    "explanation": "AMBER studs mark the right-hand edge of the carriageway next to the central reservation."
+  },
+  {
+    "id": 4,
+    "category": "Studs & Motorways",
+    "q": "What do fluorescent green/yellow reflective studs indicate on a motorway or dual carriageway?",
+    "options": [
+      "An emergency refuge area",
+      "Temporary lane markings at roadworks or contraflow systems",
+      "A dedicated bus or HGV lane",
+      "A steep uphill crawler lane"
+    ],
+    "correct": 1,
+    "explanation": "Fluorescent bright green/yellow studs indicate temporary lane layouts and contraflow systems during roadworks."
+  },
+  {
+    "id": 5,
+    "category": "Studs & Motorways",
+    "q": "What colour are the reflective studs between individual running traffic lanes on a motorway?",
+    "options": [
+      "White",
+      "Red",
+      "Amber",
+      "Green"
+    ],
+    "correct": 0,
+    "explanation": "WHITE studs separate lanes of traffic travelling in the same direction."
+  },
+  {
+    "id": 6,
+    "category": "Studs & Motorways",
+    "q": "On a Smart Motorway, what does a red 'X' displayed on an overhead gantry above your lane mean?",
+    "options": [
+      "The lane is closed; you MUST move out of this lane immediately",
+      "Speed limit is 50 mph ahead",
+      "Hazard lights are required",
+      "Overtaking is permitted if the road ahead is clear"
+    ],
+    "correct": 0,
+    "explanation": "A red 'X' means the lane is closed. It is strictly illegal to drive in a lane showing a red 'X' (subject to a \u00a3100 fine and 3 penalty points)."
+  },
+  {
+    "id": 7,
+    "category": "Studs & Motorways",
+    "q": "If you break down in an Emergency Area (EA) on a Smart Motorway, what should you do when using the emergency roadside telephone?",
+    "options": [
+      "Face oncoming traffic so you can see approaching danger",
+      "Turn your back to the road to hear better",
+      "Wait inside the car until the operator answers",
+      "Walk to the next junction to meet the recovery vehicle"
+    ],
+    "correct": 0,
+    "explanation": "Always face oncoming traffic when using a roadside emergency phone so you can see any approaching danger or errant vehicles."
+  },
+  {
+    "id": 8,
+    "category": "Studs & Motorways",
+    "q": "Which vehicle is prohibited from using the outside (right-hand) lane of a motorway with three or more lanes?",
+    "options": [
+      "A car towing a caravan or trailer",
+      "A car-derived van",
+      "A motorcycle without a sidecar",
+      "An electric car with four passengers"
+    ],
+    "correct": 0,
+    "explanation": "Any vehicle towing a trailer or caravan, and goods vehicles exceeding 7.5 tonnes, are prohibited from using the right-hand lane of a motorway with 3 or more lanes."
+  },
+  {
+    "id": 9,
+    "category": "Studs & Motorways",
+    "q": "Approximately how far apart are Emergency Refuge Areas (ERAs) spaced on All Lane Running (ALR) Smart Motorways?",
+    "options": [
+      "Every 1 to 1.5 miles",
+      "Every 500 metres",
+      "Every 5 miles",
+      "Every 10 miles"
+    ],
+    "correct": 0,
+    "explanation": "Emergency Areas on Smart Motorways are located approximately every 1 to 1.5 miles, marked by large blue signs with an orange SOS phone symbol."
+  },
+  {
+    "id": 10,
+    "category": "Studs & Motorways",
+    "q": "Why is an emergency telephone on a motorway preferable to using a personal mobile phone?",
+    "options": [
+      "It connects directly to the regional control centre and automatically provides your exact location",
+      "It is free of charge while mobile roaming costs apply",
+      "It has a built-in satellite loudspeaker",
+      "Police cannot track mobile phone calls on motorways"
+    ],
+    "correct": 0,
+    "explanation": "Motorway SOS phones connect directly to National Highways and automatically pin your exact location and carriageway direction."
+  },
+  {
+    "id": 11,
+    "category": "Speed & Distances",
+    "q": "What is the total dry stopping distance (thinking + braking) at 30 mph according to the Highway Code?",
+    "options": [
+      "23 metres (75 feet)",
+      "12 metres (40 feet)",
+      "36 metres (120 feet)",
+      "53 metres (175 feet)"
+    ],
+    "correct": 0,
+    "explanation": "At 30 mph: Thinking = 9m (30ft), Braking = 14m (45ft). Total = 23 metres (75 feet), or about 6 car lengths."
+  },
+  {
+    "id": 12,
+    "category": "Speed & Distances",
+    "q": "What is the total dry stopping distance at 50 mph?",
+    "options": [
+      "53 metres (175 feet)",
+      "36 metres (120 feet)",
+      "73 metres (240 feet)",
+      "96 metres (315 feet)"
+    ],
+    "correct": 0,
+    "explanation": "At 50 mph: Thinking = 15m (50ft), Braking = 38m (125ft). Total = 53 metres (175 feet), or 13 car lengths."
+  },
+  {
+    "id": 13,
+    "category": "Speed & Distances",
+    "q": "What is the total dry stopping distance at 70 mph?",
+    "options": [
+      "96 metres (315 feet)",
+      "73 metres (240 feet)",
+      "120 metres (395 feet)",
+      "85 metres (280 feet)"
+    ],
+    "correct": 0,
+    "explanation": "At 70 mph: Thinking = 21m (70ft), Braking = 75m (245ft). Total = 96 metres (315 feet), or 24 car lengths."
+  },
+  {
+    "id": 14,
+    "category": "Speed & Distances",
+    "q": "What is the total dry stopping distance at 20 mph?",
+    "options": [
+      "12 metres (40 feet)",
+      "6 metres (20 feet)",
+      "18 metres (60 feet)",
+      "23 metres (75 feet)"
+    ],
+    "correct": 0,
+    "explanation": "At 20 mph: Thinking = 6m (20ft), Braking = 6m (20ft). Total = 12 metres (40 feet), or 3 car lengths."
+  },
+  {
+    "id": 15,
+    "category": "Speed & Distances",
+    "q": "What is the total dry stopping distance at 60 mph?",
+    "options": [
+      "73 metres (240 feet)",
+      "53 metres (175 feet)",
+      "96 metres (315 feet)",
+      "60 metres (195 feet)"
+    ],
+    "correct": 0,
+    "explanation": "At 60 mph: Thinking = 18m (60ft), Braking = 55m (180ft). Total = 73 metres (240 feet), or 18 car lengths."
+  },
+  {
+    "id": 16,
+    "category": "Speed & Distances",
+    "q": "In wet weather, by how much does your total stopping distance increase?",
+    "options": [
+      "At least DOUBLE (x2)",
+      "By 50%",
+      "Ten times (x10)",
+      "It remains identical if tyres have 3mm tread"
+    ],
+    "correct": 0,
+    "explanation": "Wet roads reduce tyre grip and at least DOUBLE (x2) your stopping distance. Maintain a 4-second gap."
+  },
+  {
+    "id": 17,
+    "category": "Speed & Distances",
+    "q": "In icy or snowy conditions, by how much can your stopping distance increase?",
+    "options": [
+      "Up to TEN TIMES (x10)",
+      "Double (x2)",
+      "Three times (x3)",
+      "Five times (x5)"
+    ],
+    "correct": 0,
+    "explanation": "On ice and hard-packed snow, stopping distances can increase by up to TEN TIMES (x10). Drive in the highest gear possible to avoid wheelspin."
+  },
+  {
+    "id": 18,
+    "category": "Speed & Distances",
+    "q": "What is the fast mental shortcut to calculate Thinking Distance in feet for any speed in dry conditions?",
+    "options": [
+      "Thinking distance in feet is always exactly equal to your speed in mph (e.g. 50 mph = 50 ft)",
+      "Multiply your speed by 2",
+      "Divide your speed by 3",
+      "Multiply your speed by 1.5"
+    ],
+    "correct": 0,
+    "explanation": "In feet, Thinking Distance ALWAYS equals your speed in mph: 20mph = 20ft, 30mph = 30ft, 40mph = 40ft, 50mph = 50ft, 60mph = 60ft, 70mph = 70ft!"
+  },
+  {
+    "id": 19,
+    "category": "Speed & Distances",
+    "q": "In dry conditions, what is the minimum safe following distance between you and the vehicle in front?",
+    "options": [
+      "At least a TWO-SECOND gap",
+      "A one-second gap",
+      "Four seconds",
+      "One car length for every 5 mph"
+    ],
+    "correct": 0,
+    "explanation": "Use the 2-second rule in dry conditions ('Only a fool breaks the two-second rule'). Double it to 4 seconds in the wet."
+  },
+  {
+    "id": 20,
+    "category": "Speed & Distances",
+    "q": "If streetlights are present on a road with no speed limit signs posted, what is the default speed limit?",
+    "options": [
+      "30 mph (20 mph in Wales)",
+      "40 mph",
+      "60 mph (national limit)",
+      "50 mph"
+    ],
+    "correct": 0,
+    "explanation": "The presence of a system of street lighting indicates a 30 mph speed limit in England, Scotland & NI (20 mph in Wales), unless signs indicate otherwise."
+  },
+  {
+    "id": 21,
+    "category": "Speed Limits",
+    "q": "What is the national speed limit on a SINGLE carriageway road for a car-derived van (<2 tonnes max laden weight)?",
+    "options": [
+      "60 mph",
+      "50 mph",
+      "70 mph",
+      "40 mph"
+    ],
+    "correct": 0,
+    "explanation": "Car-derived vans (under 2 tonnes maximum laden weight) have the same speed limits as normal cars: 60 mph on single carriageways and 70 mph on dual carriageways."
+  },
+  {
+    "id": 22,
+    "category": "Speed Limits",
+    "q": "What is the national speed limit on a SINGLE carriageway road for a standard panel van (such as a Ford Transit)?",
+    "options": [
+      "50 mph",
+      "60 mph",
+      "70 mph",
+      "40 mph"
+    ],
+    "correct": 0,
+    "explanation": "Standard goods vans (not car-derived) are subject to lower limits: 50 mph on single carriageways and 60 mph on dual carriageways!"
+  },
+  {
+    "id": 23,
+    "category": "Speed Limits",
+    "q": "What is the maximum speed limit for a car towing a caravan or trailer on a motorway?",
+    "options": [
+      "60 mph",
+      "70 mph",
+      "50 mph",
+      "55 mph"
+    ],
+    "correct": 0,
+    "explanation": "When towing a caravan or trailer, the maximum speed limit on a motorway or dual carriageway is 60 mph (50 mph on single carriageways)."
+  },
+  {
+    "id": 24,
+    "category": "Speed Limits",
+    "q": "What is the maximum speed limit for a car towing a trailer on a DUAL carriageway?",
+    "options": [
+      "60 mph",
+      "70 mph",
+      "50 mph",
+      "40 mph"
+    ],
+    "correct": 0,
+    "explanation": "A car towing a trailer is limited to 60 mph on dual carriageways (reduced from the normal 70 mph limit)."
+  },
+  {
+    "id": 25,
+    "category": "Speed Limits",
+    "q": "What is the speed limit on a single carriageway road for an articulated goods vehicle over 7.5 tonnes in England and Wales?",
+    "options": [
+      "50 mph",
+      "40 mph",
+      "60 mph",
+      "45 mph"
+    ],
+    "correct": 0,
+    "explanation": "In England and Wales, the speed limit for HGVs over 7.5 tonnes on single carriageways is 50 mph (in Scotland it remains 40 mph unless dual carriageway)."
+  },
+  {
+    "id": 26,
+    "category": "Crossings & Lights",
+    "q": "At a PELICAN crossing, what does a FLASHING AMBER light mean?",
+    "options": [
+      "You MUST give way to pedestrians already on the crossing; proceed if clear",
+      "Stop and wait for the green light",
+      "Pedestrians must hurry across",
+      "The crossing sensors are faulty"
+    ],
+    "correct": 0,
+    "explanation": "At a Pelican crossing, FLASHING AMBER means give way to pedestrians on the crossing. If the crossing is clear, you may proceed without waiting for green."
+  },
+  {
+    "id": 27,
+    "category": "Crossings & Lights",
+    "q": "How does a PUFFIN crossing differ from a Pelican crossing?",
+    "options": [
+      "Puffin has infrared/heat sensors and NO flashing amber phase; it uses standard light sequence",
+      "Puffin has flashing amber for 10 seconds",
+      "Puffin is exclusively for horse riders",
+      "Puffin requires you to sound your horn before proceeding"
+    ],
+    "correct": 0,
+    "explanation": "PUFFIN (Pedestrian User-Friendly INtelligent) crossings have electronic sensors to detect pedestrians. They do NOT have a flashing amber phase."
+  },
+  {
+    "id": 28,
+    "category": "Crossings & Lights",
+    "q": "What distinguishes a TOUCAN crossing from other pedestrian crossings?",
+    "options": [
+      "Cyclists and pedestrians can cross together without dismounting",
+      "It is only operated during school hours",
+      "It has twin flashing red lights",
+      "Only two pedestrians are permitted to cross at a time"
+    ],
+    "correct": 0,
+    "explanation": "TOUCAN ('Two-Can') crossings are wide crossings designed for pedestrians AND cyclists to cross simultaneously without dismounting."
+  },
+  {
+    "id": 29,
+    "category": "Crossings & Lights",
+    "q": "What is a PEGASUS crossing designed for?",
+    "options": [
+      "Horse riders (equestrians) with high-mounted push buttons",
+      "Mobility scooters only",
+      "Emergency vehicles to override signals",
+      "School children walking in pairs"
+    ],
+    "correct": 0,
+    "explanation": "PEGASUS crossings are designed for horse riders and pedestrians, featuring push buttons mounted higher up on posts so equestrians do not need to dismount."
+  },
+  {
+    "id": 30,
+    "category": "Crossings & Lights",
+    "q": "What are the white zig-zag lines painted on the road approaching a pedestrian crossing for?",
+    "options": [
+      "Strictly prohibit parking AND overtaking the lead vehicle nearest the crossing",
+      "Indicate a speed limit reduction to 20 mph",
+      "Show where cyclists should queue",
+      "Mark areas where loading is allowed for up to 20 minutes"
+    ],
+    "correct": 0,
+    "explanation": "White zig-zag lines strictly prohibit both parking/waiting and overtaking the leading vehicle moving or stationary nearest the crossing."
+  },
+  {
+    "id": 31,
+    "category": "Crossings & Lights",
+    "q": "At a ZEBRA crossing, when are you legally obligated to stop for a pedestrian?",
+    "options": [
+      "As soon as the pedestrian steps onto the crossing",
+      "When they are standing on the pavement looking at you",
+      "Only if an amber beacon is flashing",
+      "Only if escorted by a school crossing patrol"
+    ],
+    "correct": 0,
+    "explanation": "You MUST give way once a pedestrian has stepped onto a zebra crossing. However, good practice dictates you should anticipate and stop if someone is waiting."
+  },
+  {
+    "id": 32,
+    "category": "Crossings & Lights",
+    "q": "What light signal indicates that a tram route is clear to proceed?",
+    "options": [
+      "A vertical white line on a black background",
+      "A green arrow pointing left",
+      "A flashing purple circle",
+      "A horizontal white bar"
+    ],
+    "correct": 0,
+    "explanation": "Tram signals use white lights on a black background: a vertical white bar means PROCEED; a horizontal white bar means STOP."
+  },
+  {
+    "id": 33,
+    "category": "Crossings & Lights",
+    "q": "At an automatic railway level crossing, what do alternating flashing twin red lights mean?",
+    "options": [
+      "You MUST stop behind the stop line",
+      "Proceed with extreme caution",
+      "The barriers are opening",
+      "Give way to oncoming road traffic"
+    ],
+    "correct": 0,
+    "explanation": "Twin alternating flashing red lights mean you MUST STOP. A train is approaching and barriers are lowering. An audible alarm also sounds."
+  },
+  {
+    "id": 34,
+    "category": "Numbers & Limits",
+    "q": "What is the legal minimum tyre tread depth for passenger cars in the UK?",
+    "options": [
+      "1.6 mm across the central three-quarters and around entire circumference",
+      "1.0 mm across the entire tyre face",
+      "2.0 mm across the outer shoulders",
+      "1.6 mm across half the tyre breadth"
+    ],
+    "correct": 0,
+    "explanation": "Tyres must have a minimum tread depth of 1.6 mm across the central three-quarters of the breadth of the tyre and around the entire continuous circumference."
+  },
+  {
+    "id": 35,
+    "category": "Numbers & Limits",
+    "q": "What is the legal alcohol limit for drivers in England, Wales, and Northern Ireland?",
+    "options": [
+      "35 mcg breath / 80 mg blood / 107 mg urine",
+      "22 mcg breath / 50 mg blood / 67 mg urine",
+      "50 mcg breath / 100 mg blood / 120 mg urine",
+      "Zero tolerance (0.0 mcg)"
+    ],
+    "correct": 0,
+    "explanation": "In England, Wales & NI: 35 micrograms of alcohol per 100ml of breath, 80 milligrams per 100ml of blood, or 107 milligrams per 100ml of urine."
+  },
+  {
+    "id": 36,
+    "category": "Numbers & Limits",
+    "q": "What is the legal breath alcohol limit for drivers in SCOTLAND?",
+    "options": [
+      "22 micrograms per 100ml breath (50 mg blood)",
+      "35 micrograms per 100ml breath (80 mg blood)",
+      "10 micrograms per 100ml breath",
+      "Zero tolerance"
+    ],
+    "correct": 0,
+    "explanation": "Scotland has a lower, stricter limit: 22 micrograms of alcohol per 100ml of breath (and 50 mg per 100ml of blood)."
+  },
+  {
+    "id": 37,
+    "category": "Numbers & Limits",
+    "q": "Under the New Drivers Act, how many penalty points within two years of passing your practical test will result in licence revocation?",
+    "options": [
+      "6 points",
+      "3 points",
+      "12 points",
+      "9 points"
+    ],
+    "correct": 0,
+    "explanation": "Accumulating 6 or more penalty points within 2 years of passing your first practical test automatically revokes your licence. You must re-apply for a provisional and retake BOTH tests."
+  },
+  {
+    "id": 38,
+    "category": "Numbers & Limits",
+    "q": "If you are involved in a collision causing injury or damage and cannot exchange details at the scene, within what time must you report it to the police?",
+    "options": [
+      "As soon as reasonably practicable and within 24 hours",
+      "Within 7 days",
+      "Within 48 hours",
+      "Within 14 days"
+    ],
+    "correct": 0,
+    "explanation": "You MUST report the collision to the police in person as soon as reasonably practicable and in any case within 24 hours."
+  },
+  {
+    "id": 39,
+    "category": "Numbers & Limits",
+    "q": "If asked by a police officer to produce your driving licence, insurance, or MOT certificate, how long do you have to present them at a police station?",
+    "options": [
+      "Within 7 days (Form HO/RT1)",
+      "Within 24 hours",
+      "Within 14 days",
+      "Within 30 days"
+    ],
+    "correct": 0,
+    "explanation": "Under the HO/RT1 procedure, you have 7 days to produce your documents at a police station of your choice."
+  },
+  {
+    "id": 40,
+    "category": "Numbers & Limits",
+    "q": "When does a newly registered brand-new car require its very first MOT test?",
+    "options": [
+      "When it reaches 3 years old (then annually)",
+      "After 1 year",
+      "After 2 years",
+      "After 5 years"
+    ],
+    "correct": 0,
+    "explanation": "New cars require their first MOT test when they reach 3 years old from registration, and every year thereafter."
+  },
+  {
+    "id": 41,
+    "category": "Numbers & Limits",
+    "q": "How long does a Statutory Off Road Notification (SORN) remain valid?",
+    "options": [
+      "Indefinitely until the vehicle is taxed, sold, exported, or scrapped",
+      "Exactly 12 months",
+      "6 months",
+      "Until your MOT expires"
+    ],
+    "correct": 0,
+    "explanation": "A SORN declaration now remains valid indefinitely until the vehicle is re-taxed, sold, permanently exported, or broken up/scrapped."
+  },
+  {
+    "id": 42,
+    "category": "Numbers & Limits",
+    "q": "Between what hours is it illegal to sound your car horn in a built-up area (unless avoiding an immediate danger)?",
+    "options": [
+      "11:30 pm to 7:00 am",
+      "10:00 pm to 6:00 am",
+      "Midnight to 8:00 am",
+      "11:00 pm to 7:30 am"
+    ],
+    "correct": 0,
+    "explanation": "The horn curfew in built-up areas is 11:30 pm to 7:00 am. It is also illegal to sound the horn when stationary unless another vehicle poses danger."
+  },
+  {
+    "id": 43,
+    "category": "Numbers & Limits",
+    "q": "What legal requirements must a passenger meet to supervise a learner driver holding a provisional licence?",
+    "options": [
+      "Be at least 21 years old and have held a full car licence for at least 3 years",
+      "Be at least 18 years old and held a licence for 1 year",
+      "Be at least 25 years old with no penalty points",
+      "Be an immediate family member of any age"
+    ],
+    "correct": 0,
+    "explanation": "A supervising driver must be at least 21 years of age and have held a full licence for the vehicle category for at least 3 years."
+  },
+  {
+    "id": 44,
+    "category": "Numbers & Limits",
+    "q": "When parking at night on a road with a speed limit greater than 30 mph, what MUST you do?",
+    "options": [
+      "Leave your parking lights (sidelights) on and park facing the direction of traffic",
+      "Leave your hazard warning lights flashing",
+      "Park on the pavement to keep the road clear",
+      "Switch off all lights to preserve battery"
+    ],
+    "correct": 0,
+    "explanation": "On roads where the speed limit is above 30 mph, you MUST leave parking lights on at night and park facing the direction of traffic on the left."
+  },
+  {
+    "id": 45,
+    "category": "Obscure Signs",
+    "q": "What does a circular blue sign containing a red border and a single red diagonal stripe mean?",
+    "options": [
+      "Waiting restrictions apply (No Waiting during times shown)",
+      "Clearway (No Stopping at any time)",
+      "National speed limit applies",
+      "Entry prohibited"
+    ],
+    "correct": 0,
+    "explanation": "A single red diagonal bar across a blue circle means NO WAITING during the operational times on the sign. (A full red cross 'X' means Clearway: No Stopping at all)."
+  },
+  {
+    "id": 46,
+    "category": "Obscure Signs",
+    "q": "What does a circular sign with a red cross 'X' on a blue background (Clearway sign) mean?",
+    "options": [
+      "No Stopping at any time (even to pick up or set down passengers)",
+      "No Waiting between 8am and 6pm",
+      "Hospital ahead with accident unit",
+      "Crossroads ahead"
+    ],
+    "correct": 0,
+    "explanation": "The red cross on a blue background indicates a Clearway: NO STOPPING under any circumstances, even momentarily to drop off passengers."
+  },
+  {
+    "id": 47,
+    "category": "Obscure Signs",
+    "q": "What does a blue rectangular sign showing a large white arrow pointing UP and a smaller red arrow pointing DOWN mean?",
+    "options": [
+      "You have priority over oncoming vehicles",
+      "Oncoming vehicles have priority over you",
+      "One-way street ahead",
+      "Overtaking prohibited"
+    ],
+    "correct": 0,
+    "explanation": "The blue rectangle with a large white up-arrow means YOU have priority over oncoming traffic. (A white circle with a red ring and red up-arrow means ONCOMING traffic has priority)."
+  },
+  {
+    "id": 48,
+    "category": "Obscure Signs",
+    "q": "What does an empty white circular sign with only a RED border (no symbols inside) mean?",
+    "options": [
+      "No vehicles of any kind permitted (including non-motor vehicles like bicycles)",
+      "No motor vehicles permitted",
+      "Derestriction zone",
+      "Danger: unexploded ordnance"
+    ],
+    "correct": 0,
+    "explanation": "A completely blank white circle inside a red ring means 'No Vehicles' \u2014 this bans ALL vehicles, including bicycles and horse-drawn carriages."
+  },
+  {
+    "id": 49,
+    "category": "Obscure Signs",
+    "q": "What does a solid blue circular sign showing the number '30' in white text indicate?",
+    "options": [
+      "Minimum mandatory speed limit of 30 mph",
+      "Maximum advisory speed limit of 30 mph",
+      "Speed camera calibrated to 30 mph",
+      "End of 30 mph zone"
+    ],
+    "correct": 0,
+    "explanation": "Circular blue signs give mandatory positive orders: a blue circle with '30' is a MINIMUM speed limit of 30 mph."
+  },
+  {
+    "id": 50,
+    "category": "Obscure Signs",
+    "q": "What do TWO yellow stripes painted vertically on the kerbstone indicate?",
+    "options": [
+      "No loading or unloading at ANY time",
+      "Loading permitted for up to 20 minutes",
+      "No parking on Sundays only",
+      "Taxi pick-up point only"
+    ],
+    "correct": 0,
+    "explanation": "Two yellow kerb marks mean NO LOADING OR UNLOADING AT ANY TIME. (One yellow mark means loading prohibited during times shown on the accompanying plate)."
+  },
+  {
+    "id": 51,
+    "category": "Obscure Signs",
+    "q": "Under what circumstance may you legally enter a yellow criss-cross Box Junction and wait?",
+    "options": [
+      "When you want to turn right and are only prevented from doing so by oncoming traffic or right-turning vehicles",
+      "When your exit road is blocked by stationary traffic",
+      "When entering behind an emergency vehicle",
+      "Never under any circumstances"
+    ],
+    "correct": 0,
+    "explanation": "You MUST NOT enter a box junction unless your exit road is clear, EXCEPT when you wish to turn right and are only prevented from doing so by oncoming traffic or other right-turning vehicles."
+  },
+  {
+    "id": 52,
+    "category": "Obscure Signs",
+    "q": "What does a triangular warning sign displaying an old steam locomotive indicate?",
+    "options": [
+      "Railway level crossing WITHOUT a gate or barrier",
+      "Railway level crossing WITH a gate or barrier",
+      "Industrial museum ahead",
+      "Heritage tramway crossing"
+    ],
+    "correct": 0,
+    "explanation": "A sign showing a steam train warns of a level crossing WITHOUT a gate or barrier. (A gate/fence illustration warns of a crossing WITH gates or barriers)."
+  },
+  {
+    "id": 53,
+    "category": "Obscure Signs",
+    "q": "What do diagonal stripes or chevron markings bordered by a SOLID continuous white line mean?",
+    "options": [
+      "You MUST NOT enter the area except in an emergency",
+      "You may enter if it is safe to do so",
+      "Only buses and taxis may enter",
+      "Dedicated motorcycle parking zone"
+    ],
+    "correct": 0,
+    "explanation": "If the chevron/hatched area is bounded by a SOLID white line, you MUST NOT enter it except in an emergency. If bordered by broken lines, you should not enter unless safe."
+  },
+  {
+    "id": 54,
+    "category": "Towing & Mechanics",
+    "q": "What should you do if your caravan or trailer begins to 'snake' (sway violently from side to side)?",
+    "options": [
+      "Ease off the accelerator smoothly and keep the steering wheel steady",
+      "Brake hard immediately to bring the outfit to a halt",
+      "Accelerate hard to pull the outfit straight",
+      "Counter-steer vigorously in rhythm with the sway"
+    ],
+    "correct": 0,
+    "explanation": "If snaking occurs, ease gently off the accelerator and hold the steering straight. NEVER brake hard or counter-steer, as this will induce a rollover or jack-knife!"
+  },
+  {
+    "id": 55,
+    "category": "Towing & Mechanics",
+    "q": "What is the primary function of a breakaway cable on a braked trailer?",
+    "options": [
+      "To automatically apply the trailer's brakes if it detaches from the towball",
+      "To keep electrical lights connected if the hitch fails",
+      "To keep the trailer physically attached to the vehicle",
+      "To prevent trailer tyre blowouts"
+    ],
+    "correct": 0,
+    "explanation": "A breakaway cable is a steel safety line connected to the trailer's handbrake. If the trailer unhitches, the cable pulls and locks the trailer brakes before snapping."
+  },
+  {
+    "id": 56,
+    "category": "Towing & Mechanics",
+    "q": "Why is it dangerous and prohibited to bump-start or push-start a modern petrol car fitted with a catalytic converter?",
+    "options": [
+      "Unburnt fuel can enter the exhaust system and damage or ignite the catalytic converter",
+      "It will blow the ABS electronic fuse",
+      "It causes engine timing belt slippage",
+      "It burns out the alternator diodes"
+    ],
+    "correct": 0,
+    "explanation": "Push-starting causes unburnt fuel to flow into the hot exhaust and catalytic converter, leading to overheating, melting, or permanent damage."
+  },
+  {
+    "id": 57,
+    "category": "Towing & Mechanics",
+    "q": "What is the correct procedure to clear a clogged Diesel Particulate Filter (DPF) warning light?",
+    "options": [
+      "Drive at a sustained speed of 40-50+ mph on an open road for 20-30 minutes",
+      "Idle the engine at high revs while stationary for 10 minutes",
+      "Pour cold water over the exhaust silencer",
+      "Disconnect and reconnect the 12V battery terminal"
+    ],
+    "correct": 0,
+    "explanation": "A DPF requires high exhaust temperatures to burn off accumulated soot ('active regeneration'). Drive at sustained speeds (e.g. on a motorway or dual carriageway) for 20 to 30 minutes."
+  },
+  {
+    "id": 58,
+    "category": "Towing & Mechanics",
+    "q": "What is the maximum legal width for any trailer or caravan towed by a passenger car in the UK?",
+    "options": [
+      "2.55 metres",
+      "2.30 metres",
+      "2.75 metres",
+      "3.00 metres"
+    ],
+    "correct": 0,
+    "explanation": "The maximum permitted width for any trailer towed by a car (gross weight up to 3,500 kg) is 2.55 metres. Max length (excluding towbar) is 7.0 metres."
+  },
+  {
+    "id": 59,
+    "category": "Towing & Mechanics",
+    "q": "When should tyre pressures always be checked with an accurate pressure gauge?",
+    "options": [
+      "When tyres are cold (before driving)",
+      "Immediately after a long fast motorway journey",
+      "Only when the tyre looks visibly deflated",
+      "Only when the ambient temperature is above 20\u00b0C"
+    ],
+    "correct": 0,
+    "explanation": "Tyre pressures must be checked when tyres are COLD. Friction from driving heats the air inside tyres, causing expansion and artificially high pressure readings."
+  },
+  {
+    "id": 60,
+    "category": "Towing & Mechanics",
+    "q": "What handling symptom occurs if one of your car's FRONT tyres suffers a sudden high-speed blowout?",
+    "options": [
+      "The steering wheel will pull violently towards the side of the blown tyre",
+      "The rear end will fishtail from side to side",
+      "The brake pedal will drop straight to the floor",
+      "The engine will immediately cut out"
+    ],
+    "correct": 0,
+    "explanation": "A front tyre blowout creates severe drag on that side, pulling the steering wheel heavily towards the blown tyre. Grip the wheel firmly and ease off the accelerator."
+  },
+  {
+    "id": 61,
+    "category": "Towing & Mechanics",
+    "q": "What is 'brake fade' and what is the primary cause?",
+    "options": [
+      "A loss of braking effectiveness caused by pads/discs overheating on long downhill gradients",
+      "Air trapped in the brake fluid reservoir",
+      "Worn tyre tread causing aquaplaning",
+      "Water entering the brake master cylinder"
+    ],
+    "correct": 0,
+    "explanation": "Brake fade is when friction surfaces overheat from continuous braking, drastically reducing stopping power. Prevent it by selecting a lower gear (engine braking) on descents."
+  },
+  {
+    "id": 62,
+    "category": "Towing & Mechanics",
+    "q": "How does Anti-Lock Braking (ABS) assist a driver during an emergency stop?",
+    "options": [
+      "It prevents wheels from locking, allowing you to maintain steering control while braking heavily",
+      "It automatically shortens braking distance in all road conditions",
+      "It detects obstacles ahead using radar and applies brakes automatically",
+      "It prevents tyre blowouts by reducing brake pressure"
+    ],
+    "correct": 0,
+    "explanation": "ABS prevents wheels from locking up, which allows you to steer around obstacles even while pressing the brake pedal as hard as possible. You should NOT pump the pedal."
+  },
+  {
+    "id": 63,
+    "category": "First Aid & Breakdowns",
+    "q": "In emergency first aid, what does the 'DR ABC' protocol stand for?",
+    "options": [
+      "Danger, Response, Airway, Breathing, Circulation",
+      "Doctor, Recovery, Ambulance, Breathing, Compressions",
+      "Danger, Resuscitation, Action, Bleeding, Check",
+      "Defibrillator, Response, Airway, Bleeding, Casualty"
+    ],
+    "correct": 0,
+    "explanation": "DR ABC: Danger (ensure the scene is safe), Response (check if casualty is conscious), Airway (tilt head, lift chin), Breathing (check for up to 10s), Circulation (control major bleeding)."
+  },
+  {
+    "id": 64,
+    "category": "First Aid & Breakdowns",
+    "q": "When performing adult CPR chest compressions, what is the recommended depth and rate?",
+    "options": [
+      "Depth 5 to 6 cm at a rate of 100 to 120 compressions per minute",
+      "Depth 2 to 3 cm at a rate of 60 compressions per minute",
+      "Depth 8 to 10 cm at a rate of 150 compressions per minute",
+      "Depth 1 to 2 cm at a rate of 80 compressions per minute"
+    ],
+    "correct": 0,
+    "explanation": "Press down 5 to 6 cm on an adult's chest at a steady rate of 100 to 120 beats per minute (to the rhythm of 'Stayin' Alive')."
+  },
+  {
+    "id": 65,
+    "category": "First Aid & Breakdowns",
+    "q": "How should you treat a severe burn at the scene of a road collision?",
+    "options": [
+      "Cool the burn with clean, cold water for at least 20 minutes",
+      "Apply butter, ointment, or grease to soothe the skin",
+      "Pull away any clothing that has melted onto the burn",
+      "Cover with dry cotton wool bandages immediately"
+    ],
+    "correct": 0,
+    "explanation": "Cool burns immediately with clean cold water for AT LEAST 20 minutes. Never apply oils or creams, and never peel off clothing stuck to the wound."
+  },
+  {
+    "id": 66,
+    "category": "First Aid & Breakdowns",
+    "q": "Under what circumstance should you remove an unconscious motorcyclist's crash helmet at the scene of a crash?",
+    "options": [
+      "ONLY if their airway is blocked or they are not breathing and CPR is necessary",
+      "Always remove it immediately to cool their head",
+      "Whenever they are lying face down",
+      "Whenever you suspect a skull fracture"
+    ],
+    "correct": 0,
+    "explanation": "NEVER remove a motorcycle helmet unless it is essential to clear their airway or perform CPR, as doing so can worsen severe spinal injuries."
+  },
+  {
+    "id": 67,
+    "category": "First Aid & Breakdowns",
+    "q": "How far behind your vehicle should a warning triangle be placed on a conventional single carriageway road?",
+    "options": [
+      "At least 45 metres (147 feet)",
+      "10 metres (33 feet)",
+      "100 metres (328 feet)",
+      "Directly on the rear bumper"
+    ],
+    "correct": 0,
+    "explanation": "Place a warning triangle at least 45 metres (147 feet) behind your broken-down vehicle on the same side of the road. WARNING: NEVER use a triangle on a motorway!"
+  },
+  {
+    "id": 68,
+    "category": "First Aid & Breakdowns",
+    "q": "Why is it strictly prohibited to place a red warning triangle on a MOTORWAY?",
+    "options": [
+      "The danger of walking along the motorway hard shoulder to place it is too great",
+      "Wind from passing lorries blows it away",
+      "It interferes with radar speed cameras",
+      "Motorway asphalt dissolves triangle plastic"
+    ],
+    "correct": 0,
+    "explanation": "High speeds on motorways make walking out to place or retrieve a triangle extremely dangerous. NEVER use a warning triangle on a motorway."
+  },
+  {
+    "id": 69,
+    "category": "First Aid & Breakdowns",
+    "q": "What is the very FIRST action you must take if your car stalls and stops directly across railway tracks at a level crossing?",
+    "options": [
+      "Get all passengers out of the car and completely clear of the tracks immediately",
+      "Try repeatedly to restart the engine",
+      "Use the emergency phone to call the signalman before getting out",
+      "Open the bonnet to check the spark plugs"
+    ],
+    "correct": 0,
+    "explanation": "FIRST: Get everyone out of the vehicle and away from the tracks! SECOND: Use the railway line telephone to alert the signalman. THIRD: Only attempt to move the car if instructed."
+  },
+  {
+    "id": 70,
+    "category": "First Aid & Breakdowns",
+    "q": "What does an amber flashing beacon on a slow-moving vehicle (such as a tractor or road sweeper) indicate?",
+    "options": [
+      "A vehicle moving at 25 mph or less",
+      "A vehicle carrying dangerous hazardous chemicals",
+      "A doctor on an emergency medical call",
+      "A broken-down recovery vehicle only"
+    ],
+    "correct": 0,
+    "explanation": "Flashing amber beacons warn of slow-moving vehicles travelling at 25 mph or less. They are mandatory for slow vehicles on dual carriageways."
+  },
+  {
+    "id": 71,
+    "category": "First Aid & Breakdowns",
+    "q": "If your car catches fire while driving through a road tunnel, what should you do if the vehicle is still driveable?",
+    "options": [
+      "Drive out of the tunnel if possible without causing further danger",
+      "Stop immediately and abandon the vehicle in the middle lane",
+      "Reverse out of the tunnel in the oncoming lane",
+      "Switch on your headlights and accelerate to maximum speed"
+    ],
+    "correct": 0,
+    "explanation": "If your car catches fire inside a tunnel, try to drive it OUT of the tunnel if it is still operational. If you cannot, pull to the side, switch off engine, and evacuate via emergency exit."
+  },
+  {
+    "id": 72,
+    "category": "First Aid & Breakdowns",
+    "q": "What should you do to stop severe arterial bleeding from a deep wound on a casualty's limb?",
+    "options": [
+      "Apply direct, firm pressure over the wound using a clean pad or dressing",
+      "Apply a tourniquet around their neck",
+      "Wash the wound out with hot soapy water",
+      "Remove any glass or knife embedded in the wound"
+    ],
+    "correct": 0,
+    "explanation": "Apply firm, direct pressure over the wound with a clean pad. If an object is embedded in the wound, DO NOT remove it \u2014 apply pressure firmly around the sides of the object."
+  },
+  {
+    "id": 73,
+    "category": "Obscure Signs",
+    "q": "What does a triangular warning sign depicting a tram within a red triangle mean?",
+    "options": [
+      "Trams crossing or sharing the road ahead",
+      "Tram maintenance depot entrance only",
+      "Trams have to give way to you",
+      "Electric vehicle charging point"
+    ],
+    "correct": 0,
+    "explanation": "Trams operate quietly and cannot steer out of their tracks. The triangular sign warns you are approaching a tram crossing or tram route."
+  },
+  {
+    "id": 74,
+    "category": "Obscure Signs",
+    "q": "What do DOUBLE RED lines along the edge of the carriageway (Red Route) signify in London and major cities?",
+    "options": [
+      "Strictly NO STOPPING at any time, even to set down passengers or unload",
+      "No parking between 8am and 6pm",
+      "Emergency service parking only",
+      "Free loading zone for goods vehicles"
+    ],
+    "correct": 0,
+    "explanation": "Double red lines indicate a strict Red Route: NO STOPPING AT ANY TIME for any reason (including dropping off passengers or picking up goods)."
+  },
+  {
+    "id": 75,
+    "category": "Obscure Signs",
+    "q": "What does a circular sign with a red ring showing '14\u2032-6\u2033' and '4.4m' with inward-pointing black arrows at the top and bottom indicate?",
+    "options": [
+      "Maximum vehicle height limit (prohibition)",
+      "Recommended bridge clearance (advisory)",
+      "Width restriction between bollards",
+      "Distance to the next overhead gantry"
+    ],
+    "correct": 0,
+    "explanation": "Circular signs with a red ring give orders: inward-pointing vertical arrows indicate a mandatory MAXIMUM VEHICLE HEIGHT limit."
+  },
+  {
+    "id": 76,
+    "category": "Speed Limits",
+    "q": "What is the maximum motorway speed limit for a bus or coach not exceeding 12 metres in overall length?",
+    "options": [
+      "70 mph (unless fitted with a 62 mph speed limiter)",
+      "60 mph",
+      "50 mph",
+      "80 mph"
+    ],
+    "correct": 0,
+    "explanation": "Buses and coaches up to 12m length have a maximum motorway speed limit of 70 mph (though speed limiters may restrict them to 62 mph/100 km/h)."
+  },
+  {
+    "id": 77,
+    "category": "Speed Limits",
+    "q": "What is the speed limit within a designated 20 mph zone (indicated by a 20 roundel sign surrounded by traffic calming features)?",
+    "options": [
+      "20 mph",
+      "Advisory 20 mph, legal limit is 30 mph",
+      "25 mph",
+      "15 mph"
+    ],
+    "correct": 0,
+    "explanation": "A 20 mph zone sign indicates a mandatory 20 mph speed limit, typically accompanied by speed bumps, chicanes, and pedestrian priority."
+  },
+  {
+    "id": 78,
+    "category": "Crossings & Lights",
+    "q": "When approaching a School Crossing Patrol displaying a round 'STOP - CHILDREN' sign, what MUST you do?",
+    "options": [
+      "You MUST stop before the sign and wait until the warden has returned completely to the pavement",
+      "Slow down to 10 mph and navigate around them",
+      "Sound your horn to alert children",
+      "Stop only if children are actively on the road"
+    ],
+    "correct": 0,
+    "explanation": "You MUST stop when signalled to do so by a school crossing patrol. It is an offence to proceed before the patrol has stepped entirely off the carriageway."
+  },
+  {
+    "id": 79,
+    "category": "Crossings & Lights",
+    "q": "When passing horses and riders on a public road, what are the two vital Highway Code rules?",
+    "options": [
+      "Pass at NO MORE THAN 10 mph and allow at least 2.0 metres of clearance",
+      "Pass at 20 mph and tap your horn lightly",
+      "Accelerate past quickly to minimise disturbance",
+      "Leave 0.5 metres and rev engine so they know you are there"
+    ],
+    "correct": 0,
+    "explanation": "Highway Code Rule 215: Pass horses wide and slow. Keep speed to a MAXIMUM of 10 mph and maintain at least 2 metres clearance without sudden revs or horn sounds."
+  },
+  {
+    "id": 80,
+    "category": "Towing & Mechanics",
+    "q": "What is 'noseweight' in relation to towing a caravan or trailer?",
+    "options": [
+      "The downward vertical force that the trailer's hitch puts onto the vehicle's towball",
+      "The weight of the car's front engine and gearbox",
+      "The drag created by the caravan's front wind deflector",
+      "The weight of the car's front axle when loaded"
+    ],
+    "correct": 0,
+    "explanation": "Noseweight is the downward load exerted by the trailer hitch onto the towball. Proper noseweight (typically 50-100 kg) is critical to prevent dangerous snaking."
+  },
+  {
+    "id": 81,
+    "category": "Towing & Mechanics",
+    "q": "When carrying a full load of passengers and heavy luggage in the boot, how should you adjust your tyre pressures?",
+    "options": [
+      "Increase tyre pressures to the manufacturer's recommended 'heavy load' settings",
+      "Decrease tyre pressures to improve tyre footprint and grip",
+      "Leave pressures unchanged",
+      "Only increase the front tyre pressures"
+    ],
+    "correct": 0,
+    "explanation": "A heavily loaded car requires increased tyre pressures (specified in the vehicle handbook) to maintain tyre stability, prevent overheating, and ensure correct handling."
+  },
+  {
+    "id": 82,
+    "category": "Numbers & Limits",
+    "q": "What is the minimum distance from which you must be able to read a standard UK vehicle registration number plate in good daylight (with glasses or contacts if worn)?",
+    "options": [
+      "20 metres (66 feet) for new style plates (20.5m for old style)",
+      "15 metres (50 feet)",
+      "30 metres (100 feet)",
+      "10 metres (33 feet)"
+    ],
+    "correct": 0,
+    "explanation": "You must be able to read a standard post-2001 number plate from a distance of 20 metres (approx. 5 car lengths) in clear daylight."
+  },
+  {
+    "id": 83,
+    "category": "Numbers & Limits",
+    "q": "Under what circumstance are you legally exempt from wearing a seatbelt while driving a passenger car?",
+    "options": [
+      "While carrying out a manoeuvre that includes reversing",
+      "When driving on a quiet residential road at under 20 mph",
+      "When driving a car older than 10 years",
+      "When carrying a sleeping child"
+    ],
+    "correct": 0,
+    "explanation": "The law provides an exemption from wearing a seatbelt when you are reversing or supervising a learner driver who is reversing, or if you hold a valid medical exemption certificate."
+  },
+  {
+    "id": 84,
+    "category": "Numbers & Limits",
+    "q": "What is the legal requirement for windscreen and front side window tinting on vehicles first used after 1 April 1985?",
+    "options": [
+      "Windscreen must let in at least 75% of light; front side windows at least 70%",
+      "Windscreen 50%; front side windows 50%",
+      "Any tint is legal as long as headlights are bright",
+      "Windscreen 90%; side windows 90%"
+    ],
+    "correct": 0,
+    "explanation": "The windscreen MUST allow at least 75% of light through, and the front side windows MUST allow at least 70% of light through."
+  },
+  {
+    "id": 85,
+    "category": "Numbers & Limits",
+    "q": "What should you do before selling a vehicle to ensure you are no longer legally responsible for it?",
+    "options": [
+      "Notify the DVLA immediately online or by sending the V5C/2 slip",
+      "Give the entire V5C logbook to the buyer and do nothing else",
+      "Notify your local police station",
+      "Post the registration plates to the DVLA"
+    ],
+    "correct": 0,
+    "explanation": "You MUST notify the DVLA immediately online or send the relevant section of the V5C registration document to the DVLA, otherwise you remain liable for fines and tax."
+  }
+]
